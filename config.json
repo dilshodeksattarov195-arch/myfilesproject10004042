@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerepdate",
+        "uuid": 26099194,
+        "checksum": "4q1hif"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
